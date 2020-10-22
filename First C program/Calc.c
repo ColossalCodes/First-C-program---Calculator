@@ -25,7 +25,7 @@ int main() {
 		else if (letter == 'C' || letter == 'c') 
 		{
 			printf("The sum of %f x %f is %f\n\n", num1, num2, num1 * num2);
-		}
+		} 
 		else if (letter == 'D' || letter == 'd') 
 		{
 			printf("The sum of %f divided by %f is %f\n\n", num1, num2, num1 / num2);
