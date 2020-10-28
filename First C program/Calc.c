@@ -30,6 +30,8 @@ int main() {
 		{
 			printf("The sum of %f divided by %f is %f\n\n", num1, num2, num1 / num2);
 		}
+		else
+			printf("invalid input!!");
 	
 	return 0;
 }
